@@ -1,6 +1,6 @@
 class SumOfDigitsEven{
     public static void main(String[] args) {
-  int num=4521;
+  int num=5841;
   int sum=0;
   while(num>0){
       int digit=num%10;
